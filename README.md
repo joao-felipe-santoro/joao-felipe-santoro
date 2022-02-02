@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/b5967373239d43c0b5b8b0339bc7c283.png?r=w9d"
+      src="https://raw.githubusercontent.com/joao-felipe-santoro/joao-felipe-santoro/devcard/devcard.svg"
     />
   </a>
 </div>
