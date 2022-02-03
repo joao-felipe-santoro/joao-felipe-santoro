@@ -29,3 +29,4 @@
 - Father of Twins
 - Cat collector
 - Tattoo lover
+![Metrics](https://raw.githubusercontent.com/joao-felipe-santoro/joao-felipe-santoro/github-metrics/github-metrics.svg)
