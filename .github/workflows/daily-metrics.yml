@@ -21,7 +21,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: joao-felipe-santoro
           template: classic
           base: header, activity, community
           config_timezone: America/Sao_Paulo
