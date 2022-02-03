@@ -33,6 +33,8 @@ jobs:
           # Achievement plugin
           plugin_achievements: yes
           plugin_achievements_threshold: B
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
 
           # Notable contributions
           plugin_notable: yes
